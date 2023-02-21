@@ -8,3 +8,5 @@ deno run --allow-env optirem.js 50000
 ```
 
 Basé sur https://mon-entreprise.urssaf.fr/d%C3%A9veloppeur/biblioth%C3%A8que-de-calcul
+
+Voir aussi https://github.com/DBarthe/sasu-simulator pour la SASU
